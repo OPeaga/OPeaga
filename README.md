@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OPeaga, I am a Brazillian 21 year old Businees/Engineering student learning about programming to work with it someday.
+- 👋 Hi, I’m @OPeaga, I am a Brazillian 21 year old Business/Engineering student learning about programming to work with it someday.
 - 👀 I’m interested in Tecnologies, Finances and Entrepreneurship
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on nothing... Swear still don´t have many tools for collaborating here
