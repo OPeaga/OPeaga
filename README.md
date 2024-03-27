@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
-<h3 align="center">DataScience / Python / SQL / PowerBi</h3>
+<h3 align="center">DataScience / Python / SQL / PowerBI</h3>
 
 - 🌱 I’m currently learning **Power Bi and Sql**
 
