@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">DataScience / Python / MySQL </h3>
 
-- 🌱 I’m currently learning **Python and Sql**
-
 - 📫 How to reach me **ph.ph365@gmail.com**
 
 - 🧑🏻‍💻 Computer Science Student at Unifor
