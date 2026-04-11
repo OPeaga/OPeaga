@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Pedro Henrique from Fortaleza-CE in BR.<br><br>- 🔭 I’m working as Full Stack Oracle Developer using APEX<br>- 📚 I'm currently learning ReactJS<br>- ⚡ In my free time I do jiujitsu</p>
+<p align="left">I'm Pedro Henrique from Fortaleza-CE in BR.<br><br>- 🔭 I’m working as Full Stack Oracle Developer using APEX<br>- 📚 I'm currently learning ReactJS + NodeJS + NextJS<br>- ⚡ In my free time I do jiujitsu</p>
 
 ###
 
