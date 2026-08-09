@@ -2,7 +2,7 @@
 
 # Pedro Henrique
 
-### Full-Stack Developer | AI-Powered Applications | Computer Science Student
+### Full-Stack Developer | Computer Science Student
 
 Building intelligent web applications with AI, modern web technologies and enterprise software experience.
 
@@ -117,16 +117,6 @@ My professional background includes enterprise software development with Oracle 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=OPeaga&theme=github-dark&hide_border=true" />
 </p>
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Coming Soon | AI Full-Stack Application | Next.js · Node.js · PostgreSQL |
-| Coming Soon | AI Agent | TypeScript · OpenAI · MCP |
-| Coming Soon | Enterprise Application | Oracle APEX · PL/SQL |
-
 ---
 
 ## Contact
