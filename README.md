@@ -97,8 +97,6 @@ My professional background includes enterprise software development with Oracle 
 ## Current Focus
 
 - AI-Powered Full-Stack Applications
-- LLM Integrations
-- AI Agents & MCP
 - React & Next.js
 - Node.js & TypeScript
 - PostgreSQL
